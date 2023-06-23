@@ -46,7 +46,7 @@ function Form({inputNumber, showCheck}) {
               </div> 
             }
             {inputs.slice(0,inputNumber)}
-            <button className='popup__btn__submit'>enviar</button>
+            <button className='popup__btn__submit'>Enviar</button>
         </form>
     )
 }
