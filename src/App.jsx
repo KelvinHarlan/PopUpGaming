@@ -16,7 +16,7 @@ import YouTube from 'react-youtube';
 const settingsPopUp = {
     "contenPopUp": "machine",
     "url": "NUz4d-bd2hs",
-    "textTitle": "Bonus!",
+    "textTitle": "Bônus!",
     "textSubtitle": " Participe para obter descontos incríveis.",
     "btnTextClose": "x",
     "btnTextPush": "Participar",

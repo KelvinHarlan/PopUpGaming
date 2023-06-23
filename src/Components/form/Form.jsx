@@ -17,7 +17,7 @@ function Form({inputNumber, showCheck}) {
     const inputs = [
         
         <div key={1} className='popup__input__box'>
-                <label htmlFor='email'>Email</label>
+                <label htmlFor='email'>E-mail</label>
                 <input type='email' id='email' />
             </div>,
             <div key={2} className='popup__input__box'>
@@ -25,7 +25,7 @@ function Form({inputNumber, showCheck}) {
                 <input type='text' id='name'/>
             </div>,
             <div key={3} className='popup__input__box'>
-                <label htmlFor='phone'>contato</label>
+                <label htmlFor='phone'>Contato</label>
                 <input type='tel' id='phone' />
             </div>,
             <div key={4} className='popup__input__box'>
