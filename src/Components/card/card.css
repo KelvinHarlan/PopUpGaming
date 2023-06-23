@@ -1,0 +1,13 @@
+.popup__machine__img {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../images/money.gif);
+    background-size: cover;
+}
+
+.popup__machine__img img {
+    width: 50%;
+}
+
