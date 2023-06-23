@@ -30,7 +30,7 @@ function Form({inputNumber, showCheck}) {
             </div>,
             <div key={4} className='popup__input__box'>
                 <label htmlFor='gener'>Gênero</label>
-                <input type='tel' id='gener' />
+                <input type='text' id='gener' />
             </div>
     ]
 

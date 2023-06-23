@@ -5,6 +5,14 @@ import Card from './Components/card/Card';
 import YouTube from 'react-youtube';
 
 
+
+
+
+
+
+
+
+
 const settingsPopUp = {
     "contenPopUp": "machine",
     "url": "NUz4d-bd2hs",
@@ -15,6 +23,19 @@ const settingsPopUp = {
     "checkbox" : "true",
     "inputNumber" : "4"
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 function Popup() {
