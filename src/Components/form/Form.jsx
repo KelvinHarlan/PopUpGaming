@@ -38,7 +38,7 @@ function Form({inputNumber, showCheck}) {
 
     return (
         
-        <form className='popup__form' action="#">
+        <form className='popup__form'>
             {show &&
                   <div key={0} className='popup__input__check'>
                   <input type='checkbox' id='check' />
